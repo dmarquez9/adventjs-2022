@@ -1,6 +1,6 @@
 const distributeGifts = require("./solution");
 
-describe("Solution Challengue 02", () => {
+describe("Solution Challengue 03", () => {
   it("return type", () => {
     expect(typeof distributeGifts(["a"], ["a"])).toBe("number");
   });
